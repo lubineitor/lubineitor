@@ -1,25 +1,10 @@
-# Hola, soy Rubén 👋
+# 💫 Sobre mi:
+Hola, soy Rubén 👋<br>Soy un desarrollador full stack apasionado por la creación de soluciones tecnológicas innovadoras. Con experiencia en frontend, backend y gestión de bases de datos, me dedico a transformar ideas creativas en aplicaciones funcionales y efectivas. Mi enfoque en el aprendizaje continuo y la resolución ágil de problemas complejos me permite enfrentar desafíos con entusiasmo.
 
-Soy un **desarrollador full stack** apasionado por la creación de soluciones tecnológicas innovadoras. Con experiencia en frontend, backend y gestión de bases de datos, me dedico a transformar ideas creativas en aplicaciones funcionales y efectivas. Mi enfoque en el aprendizaje continuo y la resolución ágil de problemas complejos me permite enfrentar desafíos con entusiasmo.
+# 💻 Habilidades:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠 Habilidades
-
-### Frontend
-
-![Frontend Badge](https://img.shields.io/badge/Frontend-Vue.js%20%7C%20JavaScript-brightgreen?style=flat&logo=vue.js)  
-![Vue.js](https://github.com/user-attachments/assets/93b720ab-87fb-4503-8d07-0a5944b31138)  
-![JavaScript](https://github.com/user-attachments/assets/803dfd5c-b15e-4593-b8b3-e8c4d9636d40)
-
-### Backend
-
-![Backend Badge](https://img.shields.io/badge/Backend-Java%20%7C%20Spring-blue?style=flat&logo=spring)  
-![Java](https://github.com/user-attachments/assets/741daebb-0433-41d6-9041-0b6281156660)  
-![Spring](https://github.com/user-attachments/assets/11a343ed-0624-45ae-8ef2-edb26dda6081)
-
-### Bases de Datos
-
-![Database Badge](https://img.shields.io/badge/Database-SQL-lightblue?style=flat&logo=mysql)  
-![MySQL](https://github.com/user-attachments/assets/0e847c05-b8cc-4b82-bd07-026ab5bd9fd3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubineitor&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌟 Lo que me motiva
 
@@ -50,7 +35,5 @@ Resolver problemas y errores es una parte crítica del proceso de desarrollo.
 ![Learning](https://img.icons8.com/ios/50/education.png)  
 El aprendizaje constante es fundamental para mantenerse al día con las últimas tecnologías.
 
-## 📫 Conéctate conmigo
-
-[![GitHub](https://img.shields.io/badge/GitHub-lubineitor-black?style=flat&logo=github)](https://github.com/lubineitor)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubenteijeiro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rubenteijeiro)
+## 🌐 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubenteijeiro) 
