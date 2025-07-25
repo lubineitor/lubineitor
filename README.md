@@ -36,4 +36,6 @@ Resolver problemas y errores es una parte crítica del proceso de desarrollo.
 El aprendizaje constante es fundamental para mantenerse al día con las últimas tecnologías.
 
 ## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenteijeiro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenteijeiro)
+[![Email](https://img.shields.io/badge/Email-%234285F4.svg?logo=gmail&logoColor=red)](mailto:rubentljob@gmail.com)
+
