@@ -1,7 +1,18 @@
 # 💫 Sobre mi:
 Hola, soy Rubén 👋<br>Desarrollador Full Stack con una profunda pasión por la creación de soluciones tecnológicas innovadoras, combinando habilidades sólidas en desarrollo frontend, backend y gestión de bases de datos. Me especializo en transformar ideas complejas en aplicaciones funcionales, escalables y orientadas al usuario.
 
-Recientemente he complementado mi perfil técnico con el Máster en Fundamentos de Ciberseguridad del Campus Internacional de Ciberseguridad, una formación intensiva que me ha permitido adquirir competencias clave en áreas como criptografía, seguridad web (OWASP), OSINT, análisis de vulnerabilidades, hacking ético, y gestión de la seguridad de la información (ISO 27001, GDPR). Esta formación refuerza mi capacidad para desarrollar software seguro desde el diseño (Secure by Design).
+Recientemente he complementado mi perfil técnico con el **Máster en Fundamentos de Ciberseguridad** en el **Campus Internacional de Ciberseguridad**, una formación intensiva de 11 meses centrada en los aspectos técnicos y prácticos de la seguridad informática. Gracias a este máster, he adquirido competencias sólidas en:
+
+- Criptografía (clave simétrica, asimétrica, funciones hash)
+- Seguridad web (OWASP Top 10, control de acceso, SQLi, XSS)
+- Análisis de vulnerabilidades y pruebas de penetración
+- Scripting en Bash y Python
+- OSINT / SOCMINT e ingeniería social
+- Gestión de la seguridad de la información (ISO 27001, GDPR)
+- Seguridad en sistemas Linux y Windows
+- Hacking ético y respuesta ante incidentes
+
+Esta formación me permite integrar la seguridad desde la fase de diseño y desarrollo ("Secure by Design"), elevando la calidad y robustez de las soluciones que desarrollo.
 
 Mi enfoque se basa en el aprendizaje continuo, la resolución ágil de problemas complejos, y la colaboración interdisciplinaria. Disfruto trabajar en entornos dinámicos donde la mejora constante, la calidad del código y la seguridad de las soluciones son una prioridad.
 
