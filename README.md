@@ -20,6 +20,7 @@ Me impulsa la mejora continua y la colaboración interdisciplinaria. Busco oport
 ## 🌍 Idiomas
 
 - Español (Nativo)
+- Gallego (Nativo)
 - Inglés (Intermedio)
 
 ## 💻 Vida de un Programador
