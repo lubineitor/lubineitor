@@ -23,8 +23,6 @@ Mi enfoque se basa en el aprendizaje continuo, la resolución ágil de problemas
 ![Vulnerabilities](https://img.shields.io/badge/Vulnerability%20Assessment-%23FF6F00?style=for-the-badge&logo=bugcrowd&logoColor=white) ![ISO 27001](https://img.shields.io/badge/ISO%2027001%20Compliance-2E7D32?style=for-the-badge&logo=ibm&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR%20Compliance-0052CC?style=for-the-badge&logo=eu&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubineitor&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🌟 Lo que me motiva
 
 ![Motivation Badge](https://img.shields.io/badge/Motivation-Continuous%20Improvement%20%7C%20Collaboration-orange?style=flat)  
