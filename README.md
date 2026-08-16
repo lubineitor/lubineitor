@@ -1,61 +1,175 @@
-# 💫 Sobre mi:
-Hola, soy Rubén 👋<br>Desarrollador Full Stack con una profunda pasión por la creación de soluciones tecnológicas innovadoras, combinando habilidades sólidas en desarrollo frontend, backend y gestión de bases de datos. Me especializo en transformar ideas complejas en aplicaciones funcionales, escalables y orientadas al usuario.
+👋 Hola, soy Rubén Teijeiro
 
-Recientemente he complementado mi perfil técnico con el **Máster en Fundamentos de Ciberseguridad** en el **Campus Internacional de Ciberseguridad**, una formación intensiva de 11 meses centrada en los aspectos técnicos y prácticos de la seguridad informática. Gracias a este máster, he adquirido competencias sólidas en:
+☕ Java Full Stack Developer | 🔐 Application Security | 🛡️ Secure Coding
 
-- Criptografía (clave simétrica, asimétrica, funciones hash)
-- Seguridad web (OWASP Top 10, control de acceso, SQLi, XSS)
-- Análisis de vulnerabilidades y pruebas de penetración
-- Scripting en Bash y Python
-- OSINT / SOCMINT e ingeniería social
-- Gestión de la seguridad de la información (ISO 27001, GDPR)
-- Seguridad en sistemas Linux y Windows
-- Hacking ético y respuesta ante incidentes
+Soy Desarrollador Java Full Stack, especializado en el desarrollo y mantenimiento de aplicaciones empresariales, con especial interés en Application Security y Desarrollo Seguro.
 
-Esta formación me permite integrar la seguridad desde la fase de diseño y desarrollo ("Secure by Design"), elevando la calidad y robustez de las soluciones que desarrollo.
+Mi objetivo es combinar ingeniería de software y ciberseguridad para desarrollar aplicaciones robustas, mantenibles y seguras desde el diseño.
 
-Mi enfoque se basa en el aprendizaje continuo, la resolución ágil de problemas complejos, y la colaboración interdisciplinaria. Disfruto trabajar en entornos dinámicos donde la mejora constante, la calidad del código y la seguridad de las soluciones son una prioridad.
+---
 
-# 💻 Habilidades:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-A1481E?style=for-the-badge&logo=owasp&logoColor=white) ![Linux](https://img.shields.io/badge/Linux%20Security-333?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows%20Security-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Python](https://img.shields.io/badge/Python%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-![OSINT](https://img.shields.io/badge/OSINT%20&%20SOCMINT-000000?style=for-the-badge&logo=search&logoColor=white) ![Hacking Ético](https://img.shields.io/badge/Ethical%20Hacking-DD0031?style=for-the-badge&logo=hackaday&logoColor=white)  
-![Vulnerabilities](https://img.shields.io/badge/Vulnerability%20Assessment-%23FF6F00?style=for-the-badge&logo=bugcrowd&logoColor=white) ![ISO 27001](https://img.shields.io/badge/ISO%2027001%20Compliance-2E7D32?style=for-the-badge&logo=ibm&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR%20Compliance-0052CC?style=for-the-badge&logo=eu&logoColor=white)
+💻 Stack Tecnológico
 
+☕ Backend
 
-## 🌟 Lo que me motiva
+"Java" · "Java EE / Jakarta EE" · "JPA / Hibernate" · "Maven" · "REST" · "SOAP"
 
-![Motivation Badge](https://img.shields.io/badge/Motivation-Continuous%20Improvement%20%7C%20Collaboration-orange?style=flat)  
-![Motivation Icon](https://img.icons8.com/ios/50/medal.png)
+🌐 Frontend
 
-Me impulsa la mejora continua y la colaboración interdisciplinaria. Busco oportunidades desafiantes que me permitan contribuir a proyectos innovadores y seguir creciendo en el dinámico mundo del desarrollo de software.
+"JavaScript" · "HTML5" · "CSS3" · "JSF" · "PrimeFaces"
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubineitor&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🗄️ Bases de datos
 
-## 🌍 Idiomas
+"SQL" · "Oracle"
 
-- Español (Nativo)
-- Gallego (Nativo)
-- Inglés (Intermedio)
+🛠️ Herramientas y entorno
 
-## 💻 Vida de un Programador
+"Git" · "GitHub" · "Linux" · "WebLogic"
 
-### Trabajando en Equipo
+---
 
-![Teamwork](https://img.icons8.com/ios/50/teamwork.png)  
-La colaboración efectiva es esencial para el éxito en el desarrollo de software.
+🔐 Application Security
 
-### Debugging
+Mi formación en ciberseguridad complementa mi experiencia como desarrollador y me permite abordar el desarrollo de software teniendo en cuenta la seguridad durante todo el ciclo de vida de una aplicación.
 
-![Debugging](https://github.com/user-attachments/assets/df43d688-63c0-4cf7-8c8e-7be3b65f465d)  
-Resolver problemas y errores es una parte crítica del proceso de desarrollo.
+Mis principales áreas de interés son:
 
-### Aprendizaje Continuo
+- 🛡️ OWASP Top 10
+- 🔐 Application Security
+- 💻 Secure Coding
+- 🌐 Web Application Security
+- 🔎 Análisis de vulnerabilidades
+- 🧪 Ethical Hacking
+- 🐧 Linux
+- 🐍 Python
+- ⚙️ Bash
+- 🔍 OSINT
 
-![Learning](https://img.icons8.com/ios/50/education.png)  
-El aprendizaje constante es fundamental para mantenerse al día con las últimas tecnologías.
+Me interesa especialmente comprender cómo aparecen las vulnerabilidades, cómo pueden ser explotadas y qué decisiones de desarrollo permiten prevenirlas o mitigar su impacto.
 
-## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenteijeiro)
-[![Email](https://img.shields.io/badge/Email-%234285F4.svg?logo=gmail&logoColor=red)](mailto:rubentljob@gmail.com)
+---
 
+🧭 Mi enfoque
+
+Mi perfil combina dos áreas que considero complementarias:
+
+☕ Desarrollo Java
+
+Diseño, desarrollo y mantenimiento de aplicaciones, prestando especial atención a la calidad del código, mantenibilidad, arquitectura, integración entre sistemas y acceso a datos.
+
+🔐 Application Security
+
+Aplicación de principios de seguridad durante el desarrollo para identificar y prevenir vulnerabilidades antes de que lleguen a producción.
+
+🛡️ Secure by Design
+
+La seguridad no debería añadirse únicamente al final del desarrollo, sino formar parte de las decisiones tomadas durante todo el ciclo de vida del software.
+
+«Desarrollar entendiendo cómo puede fallar una aplicación permite construir software más seguro.»
+
+Mi objetivo profesional es seguir creciendo en la intersección entre Java Development y Application Security, aplicando conocimientos de OWASP, Secure Coding y análisis de vulnerabilidades al desarrollo de software.
+
+---
+
+🚀 Proyectos destacados
+
+🔎 SpecterOS
+
+Entorno basado en Linux orientado a investigaciones de Open Source Intelligence (OSINT), integrando diferentes herramientas para facilitar tareas de recopilación y análisis de información.
+
+Tecnologías y áreas
+
+"Linux" · "Bash" · "OSINT" · "Cybersecurity" · "Information Gathering"
+
+➡️ "Ver SpecterOS" (https://github.com/lubineitor/SpecterOS)
+
+---
+
+☕ Acepta el Reto
+
+Colección de problemas y ejercicios de programación resueltos principalmente con Java, orientados a mejorar el pensamiento algorítmico y la resolución eficiente de problemas.
+
+Tecnologías y áreas
+
+"Java" · "Algorithms" · "Data Structures" · "Problem Solving"
+
+➡️ "Ver repositorio" (https://github.com/lubineitor/Acepta-el-reto)
+
+---
+
+📚 Formación en Ciberseguridad
+
+He completado el Máster en Fundamentos de Ciberseguridad del Campus Internacional de Ciberseguridad, ampliando mi formación como desarrollador con conocimientos relacionados con seguridad ofensiva, defensiva y gestión de la seguridad.
+
+Principales áreas
+
+"OWASP" · "Seguridad Web" · "Hacking Ético" · "OSINT" · "Linux" · "Python" · "Bash" · "Criptografía" · "Análisis de Vulnerabilidades" · "ISO 27001" · "GDPR"
+
+Esta formación refuerza mi interés por integrar principios de seguridad dentro del Software Development Life Cycle (SDLC) y aplicar un enfoque Secure by Design al desarrollo de aplicaciones.
+
+---
+
+🎯 Actualmente
+
+Continúo desarrollando mis conocimientos principalmente en tres áreas:
+
+☕ Java & Enterprise Development
+
+Profundizando en el desarrollo de aplicaciones empresariales, buenas prácticas, arquitectura, persistencia, integración entre sistemas y mantenibilidad del código.
+
+🔐 Application Security
+
+Estudiando vulnerabilidades de aplicaciones web, OWASP Top 10, mecanismos de autenticación y autorización, controles de acceso y otras áreas relacionadas con la seguridad del software.
+
+🛡️ Secure Coding
+
+Aplicando prácticas destinadas a reducir vulnerabilidades desde el propio código y entendiendo las causas que provocan fallos de seguridad.
+
+---
+
+🔬 Áreas de interés
+
+Quiero continuar desarrollando proyectos que permitan demostrar de forma práctica la relación entre desarrollo Java y seguridad de aplicaciones.
+
+Especialmente relacionados con:
+
+- 🔐 Autenticación y autorización segura
+- 👤 Control de acceso y gestión de roles
+- 🛡️ Prevención de vulnerabilidades OWASP
+- 🗄️ Acceso seguro a bases de datos
+- 🔎 Validación de entradas
+- 🧪 Testing de seguridad
+- 📦 Gestión segura de dependencias
+- 🔑 Gestión de secretos y credenciales
+- 🏗️ Arquitectura segura de aplicaciones
+- 🔄 Seguridad dentro del SDLC
+
+---
+
+🚀 Hacia dónde quiero crecer
+
+Mi objetivo es seguir evolucionando como Desarrollador Java, ampliando progresivamente mi especialización en seguridad de aplicaciones.
+
+Busco profundizar especialmente en la intersección entre:
+
+Java Development
+       │
+       ▼
+Software Engineering
+       │
+       ▼
+Application Security
+       │
+       ▼
+Secure by Design
+
+El objetivo no es tratar desarrollo y ciberseguridad como dos disciplinas independientes, sino utilizar los conocimientos de ambas para diseñar, desarrollar y mantener software más seguro.
+
+---
+
+📫 Contacto
+
+Puedes encontrarme en:
+
+- 💼 LinkedIn: "Rubén Teijeiro" (https://www.linkedin.com/in/rubenteijeiro/)
+- 💻 GitHub: "@lubineitor" (https://github.com/lubineitor)
