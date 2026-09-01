@@ -1,175 +1,117 @@
-👋 Hola, soy Rubén Teijeiro
+# 👋 Hola, soy Rubén Teijeiro
 
-☕ Java Full Stack Developer | 🔐 Application Security | 🛡️ Secure Coding
+### ☕ Java Full Stack Developer | 🔐 Application Security | 🛡️ Secure Coding
 
-Soy Desarrollador Java Full Stack, especializado en el desarrollo y mantenimiento de aplicaciones empresariales, con especial interés en Application Security y Desarrollo Seguro.
+Soy **Desarrollador Java Full Stack**, especializado en el desarrollo y mantenimiento de aplicaciones empresariales.
 
-Mi objetivo es combinar ingeniería de software y ciberseguridad para desarrollar aplicaciones robustas, mantenibles y seguras desde el diseño.
-
----
-
-💻 Stack Tecnológico
-
-☕ Backend
-
-"Java" · "Java EE / Jakarta EE" · "JPA / Hibernate" · "Maven" · "REST" · "SOAP"
-
-🌐 Frontend
-
-"JavaScript" · "HTML5" · "CSS3" · "JSF" · "PrimeFaces"
-
-🗄️ Bases de datos
-
-"SQL" · "Oracle"
-
-🛠️ Herramientas y entorno
-
-"Git" · "GitHub" · "Linux" · "WebLogic"
+Mi perfil combina **ingeniería de software y ciberseguridad**, con especial interés en **Application Security, OWASP y Desarrollo Seguro**, buscando integrar la seguridad como parte del diseño y del ciclo de vida del software.
 
 ---
 
-🔐 Application Security
+## 💻 Stack Tecnológico
 
-Mi formación en ciberseguridad complementa mi experiencia como desarrollador y me permite abordar el desarrollo de software teniendo en cuenta la seguridad durante todo el ciclo de vida de una aplicación.
+### ☕ Backend
 
-Mis principales áreas de interés son:
+`Java` · `Java EE / Jakarta EE` · `JPA / Hibernate` · `REST` · `SOAP` · `Maven`
 
-- 🛡️ OWASP Top 10
-- 🔐 Application Security
-- 💻 Secure Coding
-- 🌐 Web Application Security
-- 🔎 Análisis de vulnerabilidades
-- 🧪 Ethical Hacking
-- 🐧 Linux
-- 🐍 Python
-- ⚙️ Bash
-- 🔍 OSINT
+### 🌐 Frontend
 
-Me interesa especialmente comprender cómo aparecen las vulnerabilidades, cómo pueden ser explotadas y qué decisiones de desarrollo permiten prevenirlas o mitigar su impacto.
+`JavaScript` · `HTML5` · `CSS3` · `JSF` · `PrimeFaces`
 
----
+### 🗄️ Bases de datos
 
-🧭 Mi enfoque
+`SQL` · `Oracle`
 
-Mi perfil combina dos áreas que considero complementarias:
+### 🛠️ Herramientas y entorno
 
-☕ Desarrollo Java
-
-Diseño, desarrollo y mantenimiento de aplicaciones, prestando especial atención a la calidad del código, mantenibilidad, arquitectura, integración entre sistemas y acceso a datos.
-
-🔐 Application Security
-
-Aplicación de principios de seguridad durante el desarrollo para identificar y prevenir vulnerabilidades antes de que lleguen a producción.
-
-🛡️ Secure by Design
-
-La seguridad no debería añadirse únicamente al final del desarrollo, sino formar parte de las decisiones tomadas durante todo el ciclo de vida del software.
-
-«Desarrollar entendiendo cómo puede fallar una aplicación permite construir software más seguro.»
-
-Mi objetivo profesional es seguir creciendo en la intersección entre Java Development y Application Security, aplicando conocimientos de OWASP, Secure Coding y análisis de vulnerabilidades al desarrollo de software.
+`Git` · `GitHub` · `Linux` · `WebLogic`
 
 ---
 
-🚀 Proyectos destacados
+## 🔐 Java + Application Security
 
-🔎 SpecterOS
+Me interesa especialmente la intersección entre **desarrollo Java y seguridad de aplicaciones**.
 
-Entorno basado en Linux orientado a investigaciones de Open Source Intelligence (OSINT), integrando diferentes herramientas para facilitar tareas de recopilación y análisis de información.
+Mi objetivo es comprender no solo cómo construir una aplicación, sino también:
 
-Tecnologías y áreas
+- cómo puede fallar;
+- qué vulnerabilidades pueden aparecer;
+- por qué se producen;
+- y cómo prevenirlas desde el diseño y el código.
 
-"Linux" · "Bash" · "OSINT" · "Cybersecurity" · "Information Gathering"
+Áreas en las que trabajo y continúo profundizando:
 
-➡️ "Ver SpecterOS" (https://github.com/lubineitor/SpecterOS)
+`OWASP Top 10` · `Application Security` · `Secure Coding` · `Web Security` · `Input Validation` · `Authentication` · `Authorization` · `Secure Error Handling` · `Dependency Security`
 
----
-
-☕ Acepta el Reto
-
-Colección de problemas y ejercicios de programación resueltos principalmente con Java, orientados a mejorar el pensamiento algorítmico y la resolución eficiente de problemas.
-
-Tecnologías y áreas
-
-"Java" · "Algorithms" · "Data Structures" · "Problem Solving"
-
-➡️ "Ver repositorio" (https://github.com/lubineitor/Acepta-el-reto)
+> **Desarrollar entendiendo cómo puede fallar una aplicación permite construir software más seguro.**
 
 ---
 
-📚 Formación en Ciberseguridad
+## 🚀 Proyectos destacados
 
-He completado el Máster en Fundamentos de Ciberseguridad del Campus Internacional de Ciberseguridad, ampliando mi formación como desarrollador con conocimientos relacionados con seguridad ofensiva, defensiva y gestión de la seguridad.
+### 🔐 SecureFindings API — 🚧 En desarrollo
 
-Principales áreas
+API orientada a la **gestión de hallazgos de seguridad**, desarrollada como proyecto práctico para profundizar en Java, desarrollo backend y seguridad de aplicaciones.
 
-"OWASP" · "Seguridad Web" · "Hacking Ético" · "OSINT" · "Linux" · "Python" · "Bash" · "Criptografía" · "Análisis de Vulnerabilidades" · "ISO 27001" · "GDPR"
+El proyecto se encuentra actualmente en una fase inicial de desarrollo.
 
-Esta formación refuerza mi interés por integrar principios de seguridad dentro del Software Development Life Cycle (SDLC) y aplicar un enfoque Secure by Design al desarrollo de aplicaciones.
+**Áreas principales**
 
----
+`Java` · `REST API` · `Application Security` · `OWASP` · `Secure Coding` · `Testing`
 
-🎯 Actualmente
-
-Continúo desarrollando mis conocimientos principalmente en tres áreas:
-
-☕ Java & Enterprise Development
-
-Profundizando en el desarrollo de aplicaciones empresariales, buenas prácticas, arquitectura, persistencia, integración entre sistemas y mantenibilidad del código.
-
-🔐 Application Security
-
-Estudiando vulnerabilidades de aplicaciones web, OWASP Top 10, mecanismos de autenticación y autorización, controles de acceso y otras áreas relacionadas con la seguridad del software.
-
-🛡️ Secure Coding
-
-Aplicando prácticas destinadas a reducir vulnerabilidades desde el propio código y entendiendo las causas que provocan fallos de seguridad.
+➡️ **[Ver SecureFindings API](https://github.com/lubineitor/securefindings-api)**
 
 ---
 
-🔬 Áreas de interés
+### 🔎 SpecterOS
 
-Quiero continuar desarrollando proyectos que permitan demostrar de forma práctica la relación entre desarrollo Java y seguridad de aplicaciones.
+Entorno Linux orientado a investigaciones de **Open Source Intelligence (OSINT)**, con herramientas organizadas para facilitar tareas de recopilación y análisis de información.
 
-Especialmente relacionados con:
+Incluye un **launcher interactivo desarrollado en Bash** para centralizar el acceso a las herramientas disponibles.
 
-- 🔐 Autenticación y autorización segura
-- 👤 Control de acceso y gestión de roles
-- 🛡️ Prevención de vulnerabilidades OWASP
-- 🗄️ Acceso seguro a bases de datos
-- 🔎 Validación de entradas
-- 🧪 Testing de seguridad
-- 📦 Gestión segura de dependencias
-- 🔑 Gestión de secretos y credenciales
-- 🏗️ Arquitectura segura de aplicaciones
-- 🔄 Seguridad dentro del SDLC
+**Tecnologías y áreas**
+
+`Linux` · `Bash` · `OSINT` · `Cybersecurity` · `Information Gathering`
+
+➡️ **[Ver SpecterOS](https://github.com/lubineitor/SpecterOS)**
 
 ---
 
-🚀 Hacia dónde quiero crecer
+### ☕ Acepta el Reto
 
-Mi objetivo es seguir evolucionando como Desarrollador Java, ampliando progresivamente mi especialización en seguridad de aplicaciones.
+Colección de soluciones algorítmicas desarrolladas en **Java** para problemas del juez online Acepta el Reto.
 
-Busco profundizar especialmente en la intersección entre:
+El repositorio está orientado a practicar:
 
-Java Development
-       │
-       ▼
-Software Engineering
-       │
-       ▼
-Application Security
-       │
-       ▼
-Secure by Design
+`Java` · `Algorithms` · `Data Structures` · `Problem Solving` · `Optimization`
 
-El objetivo no es tratar desarrollo y ciberseguridad como dos disciplinas independientes, sino utilizar los conocimientos de ambas para diseñar, desarrollar y mantener software más seguro.
+También conserva algunos intentos `TLE`, `MLE` y `CE` para documentar parte del proceso de análisis y optimización.
+
+➡️ **[Ver Acepta el Reto](https://github.com/lubineitor/Acepta-el-reto)**
 
 ---
 
-📫 Contacto
+## 📚 Formación en Ciberseguridad
 
-Puedes encontrarme en:
+He completado el **Máster en Fundamentos de Ciberseguridad del Campus Internacional de Ciberseguridad**, complementando mi experiencia como desarrollador con formación en:
 
-- 💼 LinkedIn: "Rubén Teijeiro" (https://www.linkedin.com/in/rubenteijeiro/)
-- 💻 GitHub: "@lubineitor" (https://github.com/lubineitor)
+`OWASP` · `Seguridad Web` · `Análisis de Vulnerabilidades` · `Linux` · `Python` · `Bash` · `OSINT` · `Hacking Ético` · `Criptografía`
+
+Esta formación refuerza mi interés por aplicar principios de **Secure by Design** y seguridad dentro del **Software Development Life Cycle (SDLC)**.
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [Rubén Teijeiro](https://www.linkedin.com/in/rubenteijeiro/)
+- 💻 **GitHub:** [@lubineitor](https://github.com/lubineitor)
+
+---
+
+<div align="center">
+
+### `JAVA DEVELOPMENT × APPLICATION SECURITY`
+
+**Software seguro desde el diseño.**
+
+</div>
